@@ -1,0 +1,6 @@
+{
+  "name": "龍貓與大樟樹的橡實尋寶記",
+  "description": "吉卜力經典主題《鄰家的龍貓》8-bit 電子樂冒險尋寶遊戲，重溫公車站、大樟樹洞、どんどこ舞與貓巴士的奇幻旅程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
